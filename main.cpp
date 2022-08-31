@@ -15,6 +15,7 @@ int sumArray (int values[], int size)
 int main ()
 {
   int values[ 10 ];
+  cout << "Welcome to out program !" << endl;
   for (int i = 0; i < 10; i++)
   {
     cout << "Enter value " << i << ": ";
